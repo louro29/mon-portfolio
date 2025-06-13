@@ -10,7 +10,7 @@ Passionné par l'informatique et les nouvelles technologies, je suis actuellemen
 
 ## 💼 Expériences Professionnelles
 
-### Poste :** Apprenti IT 
+### Poste : Apprenti IT 
 **Période :** septembre 2025 a aout 2026  
 **Lieu :** nucourt
 
