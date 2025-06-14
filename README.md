@@ -13,9 +13,10 @@ Passionné par l'informatique et les nouvelles technologies, je suis actuellemen
 ### Poste : Apprenti IT 
 **Période :** septembre 2025 a aout 2026  
 **Lieu :** nucourt
+**Entreprise :** Griffine industrie
 
 **Missions principales :**
-- Support a l'utulisateur niveau 1
+- Support a l'utilisateur niveau 1
 - Maintenance de l'infracturue reseaux
 - Administration des systèmes et réseaux
 
