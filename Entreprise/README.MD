@@ -22,7 +22,7 @@ Nucourt | 180 collaborateurs
 
 
 ### 🔧 Maintenance Infrastructure Réseau
-- Supervision quotidienne des équipements réseau
+- Supervision quotidienne des équipements réseaux
 - Maintenance préventive switches, routeurs, Wi-Fi
 - Intervention sur pannes niveau 1 et 2
 
