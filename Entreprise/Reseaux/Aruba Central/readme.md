@@ -34,18 +34,3 @@ Le module de gestion des switches affiche une vue détaillée de chaque
 - **Dernière synchronisation**
 - **Utilisation de la bande passante**
 
-### Surveillance des performances réseau
-
-Aruba Central fournit des métriques détaillées de performance :
-- **Débit par switch** (de 441 kbps à 444 Mbps)
-- **Nombre de clients** par équipement (de 3 à 59 utilisateurs)
-- **Monitoring des alertes** avec comptage précis
-- **État de synchronisation** des configurations
-
-### Architecture réseau hybride
-
-La plateforme supporte différents types d'équipements Aruba :
-- **Switches Aruba** (séries 2930F, 2540, etc.)
-- **Points d'accès** Wi-Fi
-- **Passerelles** de sécurité
-- **Contrôleurs** réseau
