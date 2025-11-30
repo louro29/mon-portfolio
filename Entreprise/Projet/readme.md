@@ -6,7 +6,7 @@ Chaque sous-dossier ou dépôt listé ci-dessous représente une exploration de 
 
 | Projet (Titre Cliquable) | Statut |
 | :--- | :--- | 
-| **[Creations d'une serveur Greylogs]** | 🚧 En Planification |
+| **[Creations d'un serveur Greylogs]** | 🚧 En Planification |
 | **[Avenir...]** | 🚧 En Planification |
 | **[Avenir...]** | 🚧 En Planification |
 
