@@ -8,7 +8,7 @@
 ## 🏢 L'entreprise
 
 **Griffine Industrie** - Industrie manufacturière  
-Nucourt | 180 collaborateurs  
+Nucourt | 200 collaborateurs  
 *Spécialisée dans le tissus enduit 
 
 ---
