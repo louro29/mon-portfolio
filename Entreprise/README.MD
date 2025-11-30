@@ -1,6 +1,6 @@
 # 💼 Bilan d'Alternance - Griffine Industrie
 
-> **[Ton Prénom Nom]** - Apprenti Informatique  
+> **louann lemaire coudray** - Apprenti Informatique  
 > BTS SIO SISR | [02/09/2025] - [mai 2026]
 
 ---
