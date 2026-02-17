@@ -6,8 +6,8 @@ Chaque sous-dossier ou dépôt listé ci-dessous représente une exploration de 
 
 | Projet (Titre Cliquable) | Statut |
 | :--- | :--- | 
-| **Creations d'un serveur Graylogs ** | 🚧 En cours |
-| **Renouvelement du parc d'imprimantes ** | 🚧 en cours |
+| **[Creations d'un serveur Graylogs] ** | 🚧 En cours |
+| **[Renouvelement du parc d'imprimantes] ** | 🚧 en cours |
 | **[Avenir...]** | 🚧 En Planification |
 
 ---
